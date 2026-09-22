@@ -54,14 +54,13 @@ HTTP response status
 Page HTML
 <title>
 Meta description
-Headings <h1>
-First <h2>
+Headings h1
+First h2
 Canonical URL
 It also identifies relevant issues such as missing elements, redirects, or extraction errors.
 
 Step 3 — Extract SEO Elements
 The extracted information is organized into structured fields.
-
 Field	Purpose
 URL	Page being audited
 Status	HTTP response status
@@ -73,6 +72,7 @@ H1 Tag	Primary page heading
 H2 Tag	First H2 heading
 Canonical	Declared canonical URL
 Notes	Detected SEO issues
+
 Step 4 — Analyze the Results
 The skill checks for common issues
 
