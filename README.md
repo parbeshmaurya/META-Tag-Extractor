@@ -54,7 +54,7 @@ HTTP response status
 Page HTML
 <title>
 Meta description
-<h1>
+Headings <h1>
 First <h2>
 Canonical URL
 It also identifies relevant issues such as missing elements, redirects, or extraction errors.
@@ -98,4 +98,5 @@ Instead of manually auditing individual pages, SEO teams can identify issues acr
 Helps SEO teams understand competitor page optimization and identify opportunities for better metadata and content structure.
 It also creates a structured report that can be shared with clients or development teams.
 This gives the SEO professional an immediate understanding of the website's condition.
+
 
