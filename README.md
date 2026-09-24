@@ -3,7 +3,7 @@ What Is It?
 
 META Tag Extractor turns a large list of URLs into a structured SEO audit report—extracting metadata, headings, canonicals, HTTP status, and potential issues at scale.
 
-Instead of manually opening each page and checking its source code, the skill processes 10, 100, 1,000+ URLs and returns the key SEO elements in a structured CSV report.
+Instead of manually opening each page and checking its source code, the skill processes 10, 100, and more URLs and returns the key SEO elements in a structured CSV report.
 
 It extracts:
 META Title
@@ -27,7 +27,7 @@ This makes it easier to identify SEO issues, prioritize fixes, and share finding
 
 How Does It Work?
 The workflow is simple:
-Step 1 — Provide URLs
+Step 1 — Provide URLs   <Sugessting give small batch URL, so claude will work effectively>
 You can provide URLs in multiple ways:
 
 Paste URLs directly
